@@ -2,8 +2,10 @@
 // Class: CS145
 // Lab: Deck of Cards
 // Date: July 13, 2022
+// Extra Credit: Enumeration, Switch/ Case, Try/ Catch, Git and GitHub
+// IDE: Intellij
 
-import java.util.*;
+
 
 public class Test {
 

@@ -123,7 +123,7 @@ which further consists of game logic such as:
 
 and to calculate and tell the player who won the game:
 
-#### calculations() and winner()
+#### calculatePoints() and winner()
 
 and finally the
 
